@@ -1,5 +1,53 @@
 # Changelog
 
+## [0.3.0](https://github.com/muxinc/player.style/compare/player.style@0.2.0...player.style@0.3.0) (2025-10-01)
+
+
+### Features
+
+* :minimal theme video title ([#203](https://github.com/muxinc/player.style/issues/203)) ([a01e1a0](https://github.com/muxinc/player.style/commit/a01e1a0a31d861186e002ee0b1b48dd99cd31957))
+
+
+### Bug Fixes
+
+* bump media-chrome in the prod-dependencies group across 1 directory ([#206](https://github.com/muxinc/player.style/issues/206)) ([ff2e40e](https://github.com/muxinc/player.style/commit/ff2e40e3a862b1c43fd4905481eca7d06e9f5c4b))
+* bump media-chrome in the prod-dependencies group across 1 directory ([#208](https://github.com/muxinc/player.style/issues/208)) ([fd06f87](https://github.com/muxinc/player.style/commit/fd06f875b23d7107efc5268f3e9fab1407a5e7aa))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @player.style/minimal bumped from 0.1.1 to 0.2.0
+
+## [0.2.0](https://github.com/muxinc/player.style/compare/player.style@0.1.10...player.style@0.2.0) (2025-08-22)
+
+
+### Features
+
+* Sutro bump for ([75f730b](https://github.com/muxinc/player.style/commit/75f730b3682856b6ec74880dbb6ecb942aa93a63))
+
+
+### Bug Fixes
+
+* upgrade dependencies ([#198](https://github.com/muxinc/player.style/issues/198)) ([bad9d8f](https://github.com/muxinc/player.style/commit/bad9d8f3378895743cc5e0763d7b326fb0d70d94))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @player.style/sutro bumped from 0.1.1 to 0.2.0
+    * @player.style/yt bumped from 0.1.1 to 0.2.0
+
+## [0.1.10](https://github.com/muxinc/player.style/compare/player.style@0.1.9...player.style@0.1.10) (2025-08-01)
+
+
+### Bug Fixes
+
+* : Add index.js to Warn Against Naked Imports ([#196](https://github.com/muxinc/player.style/issues/196)) ([6029d09](https://github.com/muxinc/player.style/commit/6029d094737b335d855a1ab9d5766620445b644d))
+* bump media-chrome in the prod-dependencies group across 1 directory ([#189](https://github.com/muxinc/player.style/issues/189)) ([f40edbd](https://github.com/muxinc/player.style/commit/f40edbd387c0a0e10d675767395841587c0c20b1))
+
 ## [0.1.9](https://github.com/muxinc/player.style/compare/player.style@0.1.8...player.style@0.1.9) (2025-06-12)
 
 
