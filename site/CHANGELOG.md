@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.11.12](https://github.com/muxinc/player.style/compare/site@1.11.11...site@1.11.12) (2025-12-04)
+
+
+### Bug Fixes
+
+* Updated ce-la-react ([8bb95a9](https://github.com/muxinc/player.style/commit/8bb95a957120f747824c3f7ce1e8bce161407a99))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * player.style bumped from 0.3.0 to 0.3.1
+
 ## [1.11.11](https://github.com/muxinc/player.style/compare/site@1.11.10...site@1.11.11) (2025-10-01)
 
 

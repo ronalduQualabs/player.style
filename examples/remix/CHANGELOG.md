@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.3](https://github.com/muxinc/player.style/compare/test-mux-player-style-remix@1.0.2...test-mux-player-style-remix@1.0.3) (2025-12-04)
+
+
+### Bug Fixes
+
+* Updated ce-la-react ([8bb95a9](https://github.com/muxinc/player.style/commit/8bb95a957120f747824c3f7ce1e8bce161407a99))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * player.style bumped from ^0.3.0 to ^0.3.1
+
 ## [1.0.2](https://github.com/muxinc/player.style/compare/test-mux-player-style-remix@1.0.1...test-mux-player-style-remix@1.0.2) (2025-10-01)
 
 
