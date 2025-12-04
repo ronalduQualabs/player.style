@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/muxinc/player.style/compare/build-theme@0.1.0...build-theme@0.1.1) (2025-12-04)
+
+
+### Bug Fixes
+
+* Tailwind Audio Theme responsive on packaged version ([2793775](https://github.com/muxinc/player.style/commit/27937752623339f5d2cec01fad67cf6ce49d1f72))
+* Updated ce-la-react ([8bb95a9](https://github.com/muxinc/player.style/commit/8bb95a957120f747824c3f7ce1e8bce161407a99))
+
 ## [0.1.0](https://github.com/muxinc/player.style/compare/build-theme-v0.0.8...build-theme@0.1.0) (2024-12-19)
 
 
